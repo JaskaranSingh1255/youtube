@@ -32,7 +32,7 @@ export default function Navbar() {
         </div>
         <div className="flex gap-1 items-center justify-center">
           <BsYoutube className="text-3xl text-red-600" />
-          <span className="text-2xl ">Youtube</span>
+          <span className="text-2xl ">StreamNest</span>
         </div>
       </div>
       <div className="flex items-center justify-center gap-5">
@@ -72,7 +72,7 @@ export default function Navbar() {
           </span>
         </div>
         <img
-          src="https://yt3.googleusercontent.com/Ad8Q8PblBvMbfVEEpuSiAvcLoI6XqEecc4GEjCN41716Zc1lLEjR6lPB4JXjKzMLVFYskARDaNU=s900-c-k-c0x00ffffff-no-rj"
+          src="https://imgs.search.brave.com/5GLkYTTDFG6i3T7yUd-i6xIKzC551OggNiTJXvQxn0A/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzI4LzI4LzQw/LzM2MF9GXzIyODI4/NDA4MF94ak4yTGtD/NkIzdUVEdFlxOHgw/V1djQzJybTdmUFZQ/Qy5qcGc"
           alt="profile logo"
           className="w-9 h-9 rounded-full"
         />
